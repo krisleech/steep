@@ -19,7 +19,7 @@ You have to go on the following three steps.
 
 Declare types in `.rbi` files in `sig` directory.
 
-```
+```rb
 class Person
   @name: String
   @contacts: Array<Email | Phone>
